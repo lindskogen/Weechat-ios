@@ -2,7 +2,7 @@ platform :ios, '8.0'
 
 use_frameworks!
 
-pod 'WeechatRelay', :path => '~/Projects/Swift/WeechatRelay'
+pod 'WeechatRelay', :path => '../WeechatRelay'
 
 pod 'BBSZLib'
 
